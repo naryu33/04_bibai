@@ -243,3 +243,8 @@ footer {
 }
 
 
+a{
+  color: rgb(0, 42, 255);
+  font-size: 2em;
+  font-weight: bold;
+}
